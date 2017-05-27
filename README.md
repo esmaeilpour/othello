@@ -2,5 +2,5 @@
 
 A quick and dirty implementation of [Othello (Reversi)](http://en.wikipedia.org/wiki/Reversi).
 
-# Synchronize
+# Synchronize version
 [Thanks to kana](https://github.com/kana/othello-js/).
